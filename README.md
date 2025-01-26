@@ -82,7 +82,7 @@
 ## Github Stats
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Purak189&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=Purak189&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Purak189&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Purak189's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purak189&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Purak189's GitHub Stats" />
 </div>
